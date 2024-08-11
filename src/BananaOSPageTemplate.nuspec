@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
-    <id>Graic.Template.GorillaTagModTemplate.nuspec</id>
-		<title>Gorilla Tag Mod Template</title>
+    <id>Tyrr.Template.BananaPageTemplate.nuspec</id>
+		<title>Banana OS Page Template</title>
     <version>1.2.1</version>
     <description>
-			Template for creating PCVR Gorilla Tag mods.
+			A template using Graics mod template
     </description>
     <authors>Graic</authors>
     <license type="expression">Apache-2.0</license>
-		<repository type="git" url="https://github.com/Graicc/GorillaTagModTemplate.git" />
+		<repository type="git" url="https://https://github.com/tyrr72/BananaOSPageTemplate.git" />
     <packageTypes>
       <packageType name="Template" />
     </packageTypes>
